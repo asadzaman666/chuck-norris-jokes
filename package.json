@@ -1,0 +1,16 @@
+{
+  "name": "chuck-norris-jokes",
+  "version": "1.0.0",
+  "description": "chuck norris jokes collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bappiZaman",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angular-utils-pagination": "^0.11.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}

@@ -1,0 +1,35 @@
+* {
+
+    font-family: 'Indie Flower', cursive, monospace;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.brand-logo img {
+    max-width: 19%;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.loader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+hr {
+    margin: 1em;
+}
